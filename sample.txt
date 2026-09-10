@@ -1,0 +1,2 @@
+Hello world, hello Python.
+Python is simple, and the world is wide.

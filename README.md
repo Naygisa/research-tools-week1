@@ -31,4 +31,4 @@ wide: 1
 
 程序使用正则表达式 `[A-Za-z]+` 提取英文单词。文件不存在、无法读取或不是有效的 UTF-8 文件时，会输出错误提示并以非零状态码退出。
 
-Web edit for Git pull practice.
+Web edit for Git pull practice
